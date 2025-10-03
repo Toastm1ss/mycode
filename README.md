@@ -14,7 +14,7 @@ This is the github place to store my code!
   * 13:00 - [COMP 1238 - Intro to Data Mgmnt](https://learn.georgebrown.ca/d2l/home/412494)
   * 16:00 - [COMP1151 IT Essentials](https://learn.georgebrown.ca/d2l/home/408347)
 
-*Tuesday
+* Tuesday
   * 11:00 - [MATH 1162 - Math for Comp. Tech](https://learn.georgebrown.ca/d2l/home/405827)
   * 16:00 - [COMP 1234 - Intro to Web Development](https://learn.georgebrown.ca/d2l/home/416183)
 
